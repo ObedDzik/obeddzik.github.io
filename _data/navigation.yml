@@ -1,0 +1,23 @@
+# main links links
+main:
+  - title: "CV"
+    url: /files/obed_ml_cv.pdf
+  
+  - title: "Publications"
+    url: /publications/
+    # url: https://scholar.google.com/citations?user=F8ypNIcAAAAJ&hl=en&authuser=1
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "Guide"
+  #   url: /markdown/
