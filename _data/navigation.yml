@@ -2,13 +2,13 @@
 main:
   - title: "CV"
     url: /files/obedkd.pdf
-  
-  - title: "Publications"
-    url: /publications/
-    # url: https://scholar.google.com/citations?user=F8ypNIcAAAAJ&hl=en&authuser=1
 
   - title: "Open Source"
     url: /portfolio/
+
+  - title: "Publications"
+    url: /publications/
+    # url: https://scholar.google.com/citations?user=F8ypNIcAAAAJ&hl=en&authuser=1
 
   # - title: "Talks"
   #   url: /talks/    
