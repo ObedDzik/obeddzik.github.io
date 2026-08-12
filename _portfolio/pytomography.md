@@ -16,7 +16,7 @@ PyTomography is a GPU-accelerated, open-source Python library for medical image 
 
 <img src="/images/pytomography_image.jpg" alt="Sample PyTomography reconstruction">
 
-Reconstruction of GATE Monte Carlo PET data of a brain phantom using PyTomography. Shown are the ground truth PET/MR images, as well as a high count reconstruction with OSEM, a low count reconstruction with OSEM, and a low count reconstruction with the Deep Image Prior reconstruction algorithm. PyTomography was used for the entire process: list mode, time of flight (TOF) reconstruction, including random and TOF scatter estimation, as well as the development and integration of the neural network.
+*Reconstruction of GATE Monte Carlo PET data of a brain phantom using PyTomography. Shown are the ground truth PET/MR images, as well as a high count reconstruction with OSEM, a low count reconstruction with OSEM, and a low count reconstruction with the Deep Image Prior reconstruction algorithm. PyTomography was used for the entire process: list mode, time of flight (TOF) reconstruction, including random and TOF scatter estimation, as well as the development and integration of the neural network.*
 
 [View the repository on GitHub](https://github.com/PyTomography/PyTomography.git)
 [Link to project PyPi package](https://pypi.org/project/pytomography/)
