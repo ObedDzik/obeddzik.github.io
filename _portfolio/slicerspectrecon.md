@@ -9,7 +9,7 @@ excerpt: '
 ![Stars](https://img.shields.io/github/stars/PyTomography/SlicerSPECTRecon)
 ![Issues](https://img.shields.io/github/issues/PyTomography/SlicerSPECTRecon)
 
-A 3D Slicer extension for open-source SPECT image reconstruction, built on the PyTomography library, offering a user-friendly, GPU-accelerated alternative to proprietary reconstruction software.<br/><img src="/images/slicerspect.jpg">
+A 3D Slicer extension for open-source SPECT image reconstruction, built on the PyTomography library, offering a user-friendly, GPU-accelerated alternative to proprietary reconstruction software.
 '
 
 date: 2024-12-10
