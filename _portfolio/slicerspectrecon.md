@@ -1,7 +1,7 @@
 ---
 title: "SlicerSPECTRecon"
 collection: portfolio
-excerpt: 'A 3D Slicer extension for open-source SPECT image reconstruction, built on the PyTomography library, offering a user-friendly, GPU-accelerated alternative to proprietary reconstruction software.<br/><img src="/images/500x300.png">'
+excerpt: 'A 3D Slicer extension for open-source SPECT image reconstruction, built on the PyTomography library, offering a user-friendly, GPU-accelerated alternative to proprietary reconstruction software.<br/><img src="/images/slicerspect.jpg">'
 date: 2024-12-10
 paperurl: 'https://joss.theoj.org/papers/10.21105/joss.07399.pdf'
 ---
