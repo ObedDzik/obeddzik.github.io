@@ -1,14 +1,17 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/obedkd.pdf
-
   - title: "Open Source"
     url: /portfolio/
 
   - title: "Publications"
     url: /publications/
     # url: https://scholar.google.com/citations?user=F8ypNIcAAAAJ&hl=en&authuser=1
+
+  - title: "Honors & Awards"
+    url: /honors/
+
+  - title: "CV"
+    url: /files/obedkd.pdf
 
   # - title: "Talks"
   #   url: /talks/    
@@ -21,3 +24,5 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+
