@@ -9,7 +9,7 @@ author_profile: true
 
 **2025**
 * UBC Four-Year Doctoral Fellowship Award
-* Graduate Support Initiative Award
+* Faculty of Applied Science Graduate Award 
 * NSERC Multi-scale Multi-modal Image and Omics Computing for Health Award
 * President's Academic Excellence Initiative PhD Award
 
